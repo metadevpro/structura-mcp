@@ -89,6 +89,12 @@ there, and the agent reuses that session from then on.
 
 - Product and account questions: [structura.tools](https://structura.tools)
 - Issues with the MCP server itself: open an issue on this repository.
+- Support contact: [support@structura.tools](mailto:support@structura.tools)
+
+## Legal
+
+- [Terms of Service](https://structura.tools/legal/terms)
+- [Privacy Policy](https://structura.tools/legal/privacy)
 
 ## License
 
