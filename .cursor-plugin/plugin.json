@@ -1,0 +1,13 @@
+{
+  "name": "structura",
+  "version": "0.5.1",
+  "description": "Design domain models and generate deterministic multi-stack code, driven by your coding agent.",
+  "author": {
+    "name": "Metadev",
+    "email": "support@structura.tools"
+  },
+  "homepage": "https://structura.tools",
+  "repository": "https://github.com/metadevpro/structura-mcp",
+  "keywords": ["mcp", "domain-modeling", "code-generation", "angular", "dotnet"],
+  "logo": "assets/structura-logo.svg"
+}
